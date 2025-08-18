@@ -2,8 +2,8 @@
 Curso Backend con Node y Express (G90) - 1 Introducción a Node
 
 Para interactura con el archivo index.js se deberán pasar argumentos por línea de comando específicando qué funcion se desea ejecutar:
-(1) node index.js registrar nombre edad animal color enfermedad (ej: *Benito "2 años" perro blanco vomitos*)
-(2) node index.js leer
+- node index.js registrar nombre edad animal color enfermedad (ej: *Benito "2 años" perro blanco vomitos*)
+- node index.js leer
 
 ### Requerimientos
 1. Ejecutar scripts con Node Js desde la terminal.
